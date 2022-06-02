@@ -1,6 +1,7 @@
 # whac_a_mole
 
 A new Flutter project.
+This project is not yet finished.
 
 ## Getting Started
 
