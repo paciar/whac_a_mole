@@ -1,0 +1,1 @@
+enum MoleStatus { none, visible, whacked }
